@@ -194,12 +194,6 @@ img {
 .contact-section .contact-info ul li i {
   transition: 0.3s;
 }
-
-.contact-section .contact-info ul li:hover i {
-  color: #0b86eb;
-  transform: scale(1.2);
-}
-
 .contact-section .contact-form * {
   display: block;
 }
@@ -291,9 +285,6 @@ img {
   padding-top: 12px;
 }
 
-.footer-section .footer-info ul li:hover i {
-  transform: scale(1.2);
-}
 .footer-section .footer-info ul li:nth-child(1) {
   color: #006aff;
 }
