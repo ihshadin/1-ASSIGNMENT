@@ -45,7 +45,7 @@ img {
   margin: 0 auto;
 }
 .banner-area {
-  background: url(/images/banner/banner3.png);
+  background: url(images/banner/banner3.png);
   background-position: bottom center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -144,7 +144,7 @@ img {
 }
 .call-section .container {
   background: linear-gradient(90deg, #005fac 0%, rgba(0, 95, 172, 0) 100%),
-    url(/images/watch.png);
+    url(images/watch.png);
   background-position: center, center;
   background-repeat: no-repeat, no-repeat;
   background-size: cover, cover;
