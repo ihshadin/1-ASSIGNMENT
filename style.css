@@ -294,3 +294,9 @@ img {
 .footer-section .footer-info ul li:nth-child(3) {
   color: #ff0000;
 }
+@media (max-width: 767px){
+.plan-content {
+    flex-direction: column;
+    gap: 50px;
+}
+}
